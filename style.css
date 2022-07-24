@@ -1,0 +1,14 @@
+body {
+  overflow-x: hidden;
+}
+
+#nav-bg {
+  background-color: white;
+}
+.new-class {
+  margin-top: 150px;
+}
+#margin-top {
+  margin-top: 150px;
+  margin-left: 50px;
+}
